@@ -4,3 +4,10 @@ exports.login = (req, res)=>{
     message: 'Login Success!'
   })
 }
+
+exports.register = (req, res)=> {
+  return res.json({
+    success:true,
+    message: 'Register Success!'
+  })
+}
