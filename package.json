@@ -1,0 +1,23 @@
+{
+  "name": "fw5-belajar-workflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fulsep/fw5-belajar-workflow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fulsep/fw5-belajar-workflow/issues"
+  },
+  "homepage": "https://github.com/fulsep/fw5-belajar-workflow#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
